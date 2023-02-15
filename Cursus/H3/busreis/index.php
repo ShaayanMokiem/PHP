@@ -9,7 +9,7 @@
 
 <body>
   <?php
-  $leeftijd = 2;
+  $leeftijd = 13;
   $bedrag = 10;
   if ($leeftijd > 65) {
     $bedrag = $bedrag * 0.5;
